@@ -30,7 +30,6 @@ INSTALLED_APPS = [
     'posts',
     'api',
     'rest_framework',
-    'djoser',
     'django_filters',
     'rest_framework.authtoken',
 ]
